@@ -1,7 +1,7 @@
 {
   "name": "mernshoppinglist",
   "version": "1.0.0",
-  "description": "shoppingn list built with mern stack",
+  "description": "shopping list built with mern stack",
   "main": "server.js",
   "scripts": {
     "client-install": "npm install --prefix client",
